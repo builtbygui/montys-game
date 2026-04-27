@@ -7,7 +7,8 @@ Simulação do Jogo de Monty Hall em C — com cores no terminal e sistema de re
 
 O Problema de Monty Hall é um clássico da teoria da probabilidade.
 Você escolhe uma entre três portas. O apresentador abre uma porta com cabra.
-Você decide: manter sua escolha ou trocar? A matemática surpreende!
+Você decide: manter sua escolha ou trocar? 
+Você pode ganhar uma cabra ou um prêmio em dinheiro.
 
 ## Recursos
 
